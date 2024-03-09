@@ -1,0 +1,5 @@
+*.o
+clean.sh
+*.txt
+ex*/ex*
+*.pdf
