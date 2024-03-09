@@ -1,4 +1,5 @@
 #!/bin/bash
+set -e
 
 # Iterate over directories starting with 'ex0'
 for dir in ex0*; do
